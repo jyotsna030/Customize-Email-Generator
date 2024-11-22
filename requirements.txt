@@ -1,0 +1,9 @@
+fastapi
+pydantic
+uvicorn
+sendgrid
+openai
+pandas
+streamlit
+gspread
+python-dotenv
